@@ -3,7 +3,7 @@
     <div class="d-flex justify-content-center flex-wrap">
       <div class="p-2">
         <img
-          src="https://nathanblaylock.com/img/logo-white-nathan-blaylock-media.svg"
+          src="https://nathanblaylock.com/images/logos/logo-white-nathan-blaylock-media.svg"
           style="width: 2em;"
         />
       </div>

@@ -143,7 +143,7 @@
           </div>
           <div class="col-lg-4 col-sm-5">
             <img
-              src="https://nathanblaylock.com/img/blaylock-nathan-1-square.png"
+              src="https://nathanblaylock.com/images/optimized/profile/blaylock-nathan-1-square.png"
               class="rounded-circle img-fluid d-none d-sm-block mx-auto"
               alt="Nathan's Profile Picture"
               style="max-width: 300px;"
